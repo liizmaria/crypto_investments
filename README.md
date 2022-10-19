@@ -43,8 +43,8 @@ Before running the application it is necessary to install the following dependen
 
 To use the application you will need to clone the repo into your machine, navigate on terminal into it and open your [Jupyter Lab](https://github.com/jupyter/notebook) to run the file **crypto_investments.ipynb**. 
 
-Bellow you can find a brief summary of the data collected through the analysis.
-![PYPL Daily Return](Images/PYPL_daily_returns.png)  |  ![PYPL Cumulative Return](Images/PYPL_cumulative_returns.png)
+Bellow you can find a brief summary of the data collected through the analysis comparing the best values for k and a scatter plot.
+![Elbow Curve Comparison Chart](Resources/Elbow_Curve_Comparison_Charts.png)  |  ![Scatter Plot Comparison Charts](Resources/Scatter_Plot_Comparison_Charts.png)
 
 ## Contributors
 
